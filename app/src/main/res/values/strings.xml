@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="onbording1">Welcome! Quickly add tasks and organize them into lists. Stay on top of what needs to get done.</string>
+    <string name="onbording2">Never forget a task. Set reminders and due dates to keep your day on track.</string>
+    <string name="onbording3">Check off completed tasks and watch your progress grow. Achieve more, every day.</string>
+    <string name="next">Next</string>
+    <string name="gets">Get Started</string>
+
+    <string name="relapse">Relapse</string>
+    <string name="app_name">SnoozeLog</string>
+    <string name="change_time">Change Time</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="add_rename_hint">Name</string>
+    <string name="redact_hint">Comment</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty">Field is empty</string>
+    <string name="error">Error! Please try again later</string>
+    <string name="again">Try again</string>
+    <string name="enter_name">Enter name</string>
+    <string name="sure_delete_habit">Are you sure you want to remove this habit?</string>
+    <string name="sure_delete_case">Are you sure you want to remove this case?</string>
+    <string name="comment">Comment</string>
+    <string name="empty_list">You have not items</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="redact_comment">Redact comment</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="min">Min</string>
+    <string name="sec">Sec</string>
+    <string name="Months">Months</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="set">Set</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="hint1">Enter Your Name</string>
+    <string name="hint2">Enter Your Email</string>
+    <string name="hint3">Password</string>
+    <string name="b1">Sign Up</string>
+    <string name="Already">Already have an account?</string>
+    <string name="l1">Login</string>
+
+    <string name="signin">Sign In</string>
+
+    <string name="hint4">Add your Task</string>
+
+    <string name="text">Text View</string>
+
+    <string name="date1">Date</string>
+    <string name="com">Comment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+</resources>
